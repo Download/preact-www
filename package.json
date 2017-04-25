@@ -90,7 +90,7 @@
     "preact-router": "^2.0.0",
     "progress-spinner": "^1.1.0",
     "promise-polyfill": "^6.0.2",
-    "proptypes": "^0.14.3",
+    "proptypes": "^1.0.0",
     "snyk": "^1.17.1",
     "yaml": "^0.3.0"
   },
